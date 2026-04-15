@@ -6,6 +6,18 @@ Module: Module 1 - Document Request
 Installation
 To replicate and run this project, follow these steps using your terminal (VS Code Terminal or Powershell):
 
+Clone/Download the repository.
+
+Open your terminal in the project folder and run:
+
+Bash
+npm install
+Launch the development server:
+
+Bash
+npm run dev
+Ctrl + Click the localhost link in the terminal to view the app.
+
 
 
 
