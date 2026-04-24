@@ -58,7 +58,7 @@ ChatGPT: Brainstorming and structural planning.
 Gemini: Primary technical partner for Lit JS component architecture, ADDU branding integration, and PWA Service Worker debugging.
 
 Architecture Deep-Dive
-Video Walkthrough: [Insert link to your unlisted video here]
+Video Walkthrough: (https://drive.google.com/drive/folders/1bD1VEW3roJikXBVGeS5rvukiy_D8UbDA?usp=sharing)
 Gemini: Primary technical partner for Lit JS component architecture, ADDU branding integration, and PWA Service Worker debugging.
 Plaintext
 Architecture Deep-Dive
